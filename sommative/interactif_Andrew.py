@@ -7,6 +7,5 @@ yes = "ok"
 no = "bye"
 if y == "yes":
   print("then lets begin")
-
 elif y == "no":
  print("bye")
